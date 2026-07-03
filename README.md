@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -103,13 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0513-find-bottom-left-tree-value](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
