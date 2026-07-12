@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0001-two-sum) |
 | [0198-house-robber](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1288-remove-covered-intervals](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
