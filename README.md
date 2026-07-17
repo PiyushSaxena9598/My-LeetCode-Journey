@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
