@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0001-two-sum) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1054-distant-barcodes](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1054-distant-barcodes) |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
 | [0513-find-bottom-left-tree-value](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0513-find-bottom-left-tree-value) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -186,12 +188,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
 | [0513-find-bottom-left-tree-value](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Memoization
 |  |
 | ------- |
@@ -218,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -236,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
