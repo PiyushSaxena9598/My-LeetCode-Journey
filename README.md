@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3917-count-indices-with-opposite-parity](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3917-count-indices-with-opposite-parity) |
 ## Hash Table
 |  |
 | ------- |
