@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -272,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0700-search-in-a-binary-search-tree) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
