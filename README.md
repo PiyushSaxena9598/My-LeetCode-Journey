@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0338-counting-bits) |
+| [0486-predict-the-winner](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0486-predict-the-winner](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [1054-distant-barcodes](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1054-distant-barcodes) |
@@ -293,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
