@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1406-stone-game-iii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1406-stone-game-iii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -308,4 +311,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
