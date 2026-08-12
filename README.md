@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2256-minimum-average-difference](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2256-minimum-average-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
