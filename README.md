@@ -385,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1510-stone-game-iv) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
