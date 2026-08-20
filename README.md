@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3151-special-array-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3151-special-array-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
