@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -392,4 +393,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0176-second-highest-salary) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1683-invalid-tweets) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
