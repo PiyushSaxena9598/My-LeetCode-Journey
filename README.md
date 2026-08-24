@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2029-stone-game-ix) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2029-stone-game-ix) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0848-shifting-letters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0848-shifting-letters) |
 | [1140-stone-game-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [2256-minimum-average-difference](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2256-minimum-average-difference) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -367,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Backtracking
@@ -378,12 +383,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
