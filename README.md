@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0213-house-robber-ii) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0848-shifting-letters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0848-shifting-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
