@@ -440,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0176-second-highest-salary) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1683-invalid-tweets) |
 ## Linked List
