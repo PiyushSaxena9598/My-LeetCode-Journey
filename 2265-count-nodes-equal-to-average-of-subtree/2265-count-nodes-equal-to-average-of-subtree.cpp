@@ -39,10 +39,8 @@ public:
             q.pop();
             if(check(temp) == temp->val)
                 ans++;
-
             if(temp->left)
                 q.push(temp->left);
-
             if(temp->right)
                 q.push(temp->right);
         }
