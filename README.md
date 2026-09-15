@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Array
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
