@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0242-valid-anagram) |
 | [0848-shifting-letters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0848-shifting-letters) |
@@ -428,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
