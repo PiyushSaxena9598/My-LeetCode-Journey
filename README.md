@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -546,4 +549,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
