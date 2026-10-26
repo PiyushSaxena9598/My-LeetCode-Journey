@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0338-counting-bits](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0877-stone-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0835-image-overlap) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Minimax
@@ -571,4 +574,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
