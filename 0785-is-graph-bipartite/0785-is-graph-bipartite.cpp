@@ -15,7 +15,7 @@ public:
                     for(int j=0;j<graph[node].size();j++){
                         if(color[graph[node][j]]==-1)
                         {
-                            color[graph[node][j]]=(color[node]+1)%2;
+                            color[graph[node][j]]=1-color[node];
                             q.push(graph[node][j]);
                         }
                         else
