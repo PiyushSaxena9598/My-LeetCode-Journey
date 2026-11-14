@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0070-climbing-stairs) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0032-longest-valid-parentheses) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -621,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
