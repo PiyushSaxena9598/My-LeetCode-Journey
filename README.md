@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1631-path-with-minimum-effort](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1872-stone-game-viii) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1631-path-with-minimum-effort](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3312-sorted-gcd-pair-queries) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
 | [1096-brace-expansion-ii](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1096-brace-expansion-ii) |
+| [1631-path-with-minimum-effort](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1054-distant-barcodes](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1054-distant-barcodes) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -400,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1301-number-of-paths-with-max-score) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -440,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/2685-count-the-number-of-complete-components) |
@@ -631,4 +638,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/0005-longest-palindromic-substring) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/PiyushSaxena9598/My-LeetCode-Journey/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
